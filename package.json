@@ -14,6 +14,7 @@
     "@iconify-json/carbon": "^1.1.4",
     "@iconify-json/twemoji": "^1.1.4",
     "@nuxtjs/color-mode": "^3.0.2",
+    "@nuxtjs/pwa": "^3.3.5",
     "@pinia/nuxt": "^0.1.8",
     "@unocss/nuxt": "^0.32.9",
     "@vueuse/nuxt": "^8.3.1",
