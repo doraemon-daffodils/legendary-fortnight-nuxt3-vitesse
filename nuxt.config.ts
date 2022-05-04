@@ -6,8 +6,12 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
+  ],
+  
+  buildModules: [
     '@nuxtjs/pwa',
   ],
+  
   experimental: {
     reactivityTransform: true,
     viteNode: true,
